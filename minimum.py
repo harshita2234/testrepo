@@ -1,0 +1,5 @@
+x=input().split(", ")
+print(x)
+min1=x.remove(min(x))
+min1=x.remove(min(x))
+print(min(x))
